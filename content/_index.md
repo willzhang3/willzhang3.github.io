@@ -1,35 +1,85 @@
 ---
-title: "Lorem ipsum"
+title: "Weijia's Homepage"
 ---
 
 # About Me {#about-me}
+Weijia Zhang is a final-year Ph.D. student in Artificial Intelligence at the Hong Kong University of Science and Technology, Guangzhou, advised by [Prof. Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ) and [Prof. Hao Liu](https://scholar.google.com/citations?user=66KKZR4AAAAJ). His research primarily focuses on advancing machine learning and data mining methodologies for modeling, understanding, and reasoning over spatio-temporal data (e.g., spatio-temporal graph and raster, multivariate time series) collected from the Earth system, urban environments, and human individuals. His work has enabled more effective and intelligent spatio-temporal prediction, decision-making, and AI foundation models, with broad applications spanning Earth science, smart cities, and healthcare. He has published 10 first-author papers in leading journals and conferences, such as TKDE, SIGKDD, ICML, WebConf, and filed over 30 China/U.S. patents. He is also one of 10 global recipients of the 2024 Baidu Scholarship.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+<!-- # 🎉 News {#news} -->
+# News {#news}
+- *2025.08*: &nbsp; Our work, [LLMLight](https://dl.acm.org/doi/10.1145/3690624.3709379), received the ***KDD'25*** **Audience Appreciation Award**. Congrates to all co-authors 🎉! 
+- *2025.05*: &nbsp; Three papers on [Time Series Foundation Models](https://dl.acm.org/doi/abs/10.1145/3711896.3737171), [Spatio-Temporal Forecasting](https://dl.acm.org/doi/abs/10.1145/3690624.3709323), and [LLM Agents](https://dl.acm.org/doi/abs/10.1145/3690624.3709379) were accepted by ***KDD'25***. Congrats to all co-authors 🎉! 
+- *2025.04*: &nbsp; Delighted to receive **Special Award & Gold Medal at International Exhibition of Inventions Geneva 2025**. Congrats to the [LLMLight](https://github.com/usail-hkust/LLMTSCS) team 🎉! 
+- *2025.02*: &nbsp; Delighted to receive the **2024 Baidu Scholarship (Top 10 worldwide)** 🎉! 
+- *2024.12*: &nbsp; Delighted to receive the **Outstanding Reviewer (Top 10%)** recoginition from ***KDD'25*** 🎉! 
+- *2024.09*: &nbsp; Delighted to receive the **Best Research Award (First place)** in AI at HKUSTGZ 🎉!
+- *2024.08*: &nbsp; Our work, [BigST](https://dl.acm.org/doi/abs/10.14778/3641204.3641217), received the ***VLDB'24*** **Best Paper Nomination Award**. Congrats to all co-authors 🎉! 
+- *2024.08*: &nbsp; We delivered a Tutorial on Urban Foundation Models at ***KDD'24***! Check the [Tutorial website](https://usail-hkust.github.io/Urban_Foundation_Model_Tutorial) and the [paper list](https://github.com/usail-hkust/Awesome-Urban-Foundation-Models).
+- *2024.05*: &nbsp; Two papers on [Traffic Time Series Forecasting](https://dl.acm.org/doi/10.1145/3637528.3671665) and [Urban Foundation Models](https://dl.acm.org/doi/10.1145/3637528.3671453) were accepted by ***KDD'24***. Congrats to all co-authors 🎉! 
+- *2024.05*: &nbsp; One paper on [Time Series Forecasting](https://proceedings.mlr.press/v235/zhang24bw.html) was accepted by ***ICML'24***. Congrats to all co-authors 🎉! 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>.
+<!-- # 📝 Publications {#publications} -->
+# Publications {#publications}
+- **[KDD'25]** **Weijia Zhang**, Chenlong Yin, Hao Liu, Hui Xiong. *Unleashing The Power of Pre-Trained Language Models for Irregularly Sampled Time Series*. In Proceedings of the 31st SIGKDD Conference on Knowledge Discovery and Data Mining, Toronto, ON, Canada, 2025. 
 
-# 🔥 News {#news}
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **[KDD'25]** Tengfei Lyu, **Weijia Zhang**, Jinliang Deng, Hao Liu. *AutoSTF: Decoupled Neural Architecture Search for Cost-Effective Automated Spatio-Temporal Forecasting*. In Proceedings of the 31st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Toronto, ON, Canada, 2025. 
 
-# 📝 Publications {#publications}
+- **[KDD'25]** Siqi Lai, Zhao Xu, **Weijia Zhang**, Hao Liu, Hui Xiong. *LLMLight: Large Language Models as Traffic Signal Control Agents*. In Proceedings of the 31st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Toronto, ON, Canada, 2025.
 
-- ***[Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)*** <br>
-  Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee
-  in Conference on Neural Information Processing Systems (**Neurips**), 2023. <br>
-  <a href="https://arxiv.org/abs/2304.08485" class="no-trailing-icon"><img src="https://img.shields.io/badge/arXiv-2304.08485-b31b1b.svg?style=flat-square" alt="Arxiv-2304.08485"/></a><a href="https://github.com/haotian-liu/LLaVA" class="no-trailing-icon"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/haotian-liu/LLaVA?style=flat-square&logo=github&label=GitHub%20Stars&labelColor=black"></a>
+- **[PAKDD'25]** Zhuoning Guo, Le Zhang, Hengshu Zhu, **Weijia Zhang**, Hui Xiong, Hao Liu. *Labor Migration Modeling through Large-scale Job Query Data*. In Proceedings of the 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining, Sydney, Australia, 2025.
 
-# 🎖 Honors and Awards {#honors-and-awards}
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **[ICML'24]** **Weijia Zhang**, Chenlong Yin, Hao Liu, Xiaofang Zhou, Hui Xiong. *Irregular Multivariate Time Series Forecasting: A Transformable Patching Graph Neural Networks Approach*. In Proceedings of the 41st International Conference on Machine Learning, Vienna, Austria, 2024.  
 
-# 📖 Educations {#educations}
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **[KDD'24]** **Weijia Zhang**, Le Zhang, Jindong Han, Hao Liu, Yanjie Fu, Jingbo Zhou, Yu Mei, Hui Xiong. *Irregular Traffic Time Series Forecasting Based on Asynchronous Spatio-Temporal Graph Convolutional Networks*. In Proceedings of the 30th SIGKDD Conference on Knowledge Discovery and Data Mining, Barcelona, Spain, 2024. 
 
-# 💬 Invited Talks {#invited-talks}
+- **[KDD'24]** **Weijia Zhang**, Jindong Han, Zhao Xu, Hang Ni, Hao Liu, Hui Xiong. *Urban Foundation Models: A Survey*. In Proceedings of the 30th SIGKDD Conference on Knowledge Discovery and Data Mining, Barcelona, Spain, 2024. 
+
+- **[VLDB'24]** Jindong Han, **Weijia Zhang**, Hao Liu, Tao Tao, Naiqiang Tan, Hui Xiong. *BigST: Linear Complexity Spatio-Temporal Graph Neural Network for Traffic Forecasting on Large-Scale Road Networks*. In Proceedings of the VLDB Endowment, Guangzhou, China, 2024.
+
+- **[DASFAA'24]** Wei Fan, **Weijia Zhang**, Weiqi Wang, Yangqiu Song, Hao Liu. *Chain-of-Choice Hierarchical Policy Learning for Conversational Recommendation*. In Proceedings of the 29th International Conference on Database Systems for Advanced Applications, Gifu, Japan, 2024.
+
+- **[KDD'23]** Fan Liu, **Weijia Zhang**, Hao Liu. *Robust Spatiotemporal Traffic Forecasting with Reinforced Dynamic Adversarial Training*. In Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Long Beach, CA, USA, 2023.
+
+- **[KDD'23]** Siqi Lai, **Weijia Zhang**, Hao Liu. *A Preference-aware Meta-optimization Framework for Personalized Vehicle Energy Consumption Estimation*. In Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Long Beach, CA, USA, 2023.
+
+- **[KDD'23]** Qian Sun, Le Zhang, Huan Yu, **Weijia Zhang**, Yu Mei, Hui Xiong. *Hierarchical Reinforcement Learning for Dynamic Autonomous Vehicle Navigation at Intelligent Intersections*. In Proceedings of the 29th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Long Beach, CA, USA, 2023.
+
+- **[KDD'22]** **Weijia Zhang**, Hao Liu, Jindong Han, Yong Ge, Hui Xiong. *Multi-Agent Graph Convolutional Reinforcement Learning for Dynamic Electric Vehicle Charging Pricing*. In Proceedings of the 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Washington, USA, 2022. 
+
+- **[TKDE]** **Weijia Zhang**, Hao Liu, Hui Xiong, Tong Xu, Fan Wang, Haoran Xin, Hua Wu. *RLCharge: Imitative Multi-Agent Spatiotemporal Reinforcement Learning for Electric Vehicle Charging Station Recommendation*. IEEE Transactions on Knowledge and Data Engineering, 2022. 
+
+- **[ICDM'22]** Jingci Ming, Le Zhang, Wei Fan, **Weijia Zhang**, Yu Mei, Weicen Ling, Hui Xiong. *Multi-Graph Convolutional Recurrent Network for Fine-Grained Lane-Level Traffic Flow Imputation*. In IEEE International Conference on Data Mining, 2022. 
+
+- **[KDD'21]** **Weijia Zhang**, Hao Liu, Lijun Zha, Hengshu Zhu, Ji Liu, Dejing Dou, Hui Xiong. *MugRep: A Multi-Task Hierarchical Graph Representation Learning Framework for Real Estate Appraisal*. In Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Virtual Conference, 2021. 
+
+- **[WWW'21]** **Weijia Zhang**, Hao Liu, Fan Wang, Tong Xu, Haoran Xin, Dejing Dou, Hui Xiong. *Intelligent Electric Vehicle Charging Recommendation Based on Multi-Agent Reinforcement Learning*. In Proceedings of The World Wide Web Conference, Virtual Conference, 2021. 
+
+- **[TKDE]** **Weijia Zhang**, Hao Liu, Yanchi Liu, Jingbo Zhou, Tong Xu, Hui Xiong. *Semi-Supervised City-Wide Parking Availability Prediction via Hierarchical Recurrent Graph Neural Network*. IEEE Transactions on Knowledge and Data Engineering, 2020. 
+
+- **[AAAI'20]** **Weijia Zhang**, Hao Liu, Yanchi Liu, Jingbo Zhou, Hui Xiong. *Semi-Supervised Hierarchical Recurrent Graph Neural Network for City-Wide Parking Availability Prediction*. In Proceedings of the 34th AAAI Conference on Artificial Intelligence, New York City, USA, 2020. 
+
+<!-- # 🎖 Honors and Awards {#honors-and-awards} -->
+# Awards {#honors-and-awards}
+- Audience Appreciation Award (Most popular paper) at KDD’25, 2025
+- Special & Gold Prize at International Exhibition of Inventions Geneva, 2025
+- Baidu Scholarship (Top 10 worldwide), 2024
+- Best Research Paper Nomination at VLDB’24, 2024
+- Best Research Award (First place) in AI, HKUSTGZ, 2024
+- National Scholarship in China (Top 1%), 2021
+- Silver Medal, The ACM-ICPC Asia Regional Contest, 2017
+
+<!-- # 📖 Educations {#educations} -->
+<!-- - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+<!-- # 💬 Invited Talks {#invited-talks}
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships {#internships}
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- # 📝 Services {#services} -->
+# Services {#services}
+- Program Committee/Reviewer for KDD, ICML, NeurIPS, ICLR, AAAI, TMC, TNNLS, TKDD,
+TIST, TNSE, etc.
+- KDD’25 Outstanding Reviewer (Top 10%)
+- Contributor to *Encyclopedia of GIS (third edition)*
+
