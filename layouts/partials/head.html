@@ -31,17 +31,16 @@
     <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="{{ .Site.Params.favicon | default "/favicon.ico" | relURL }}">
     
-    {{ $styles := resources.Get "css/main.css" | minify }}
-    <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
+    <!-- Custom CSS from config -->
+    {{- range .Site.Params.customCSS }}
+      <link rel="stylesheet" href="{{ . | relURL }}">
+    {{- end }}
+    
     {{ $js := resources.Get "js/main.js" | minify }}
     <script src="{{ $js.RelPermalink }}" defer></script>
     <!-- Font Awesome for icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
 
-    <!-- Custom CSS from config -->
-    {{- range .Site.Params.customCSS }}
-      <link rel="stylesheet" href="{{ . | relURL }}">
-    {{- end }}
     
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
