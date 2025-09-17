@@ -1,6 +1,6 @@
 # baseURL = 'https://geekifan.github.io/zero-academic-page-starter/'
-baseURL = 'https://zhangw.github.io'
-title = 'Weijia Zhang | Academic Homepage'
+baseURL = 'https://willzhang3.github.io/'
+title = "Weijia Zhang | Academic Homepage"
 
 # multi-language support
 defaultContentLanguage = 'en'
@@ -19,12 +19,12 @@ disableKinds = ["taxonomy", "term", "RSS"]
   [languages.en]
     languageName = 'English'
     weight = 1
-    title = 'Zero'
+    title = "Weijia's Homepage"
 
     [languages.en.params]
       author = "Weijia Zhang"
       description = "Ph.D. in AI, HKUST"
-      motto = "Keep your eyes on the stars, and your feet on the ground."
+      motto = "\"Keep your eyes on the stars,<br>and your feet on the ground.\""
     
     [[languages.en.menu.main]]
       name = 'About Me'
@@ -47,8 +47,9 @@ disableKinds = ["taxonomy", "term", "RSS"]
       url = '#services'
       weight = 4
 
-      
+
 [params] 
+
   customCSS = ["css/custom.css"]
   profilePicture = "/images/profile_weijia.png"
   enableDarkMode = true
@@ -56,18 +57,18 @@ disableKinds = ["taxonomy", "term", "RSS"]
 <a href='https://github.com/geekifan/zero-academic-page' target='_blank'>Zero Academic Page</a> theme. Hosted on <a href='https://pages.github.com/' target='_blank'>GitHub Pages</a>."""
   copyright = "© Weijia Zhang"
 
-   [[params.social]]
-    name = "email"
-    url = "vegazhang3@gmail.com"
-    icon = "fas fa-envelope"
-    description = "Email"
+    [[params.social]]
+      name = "google-scholar"
+      url = "https://scholar.google.com/citations?user=lSi3CIoAAAAJ"
+      icon = "fab fa-google-scholar"
+      description = "Google Scholar"
 
-  [[params.social]]
-    name = "google-scholar"
-    url = "https://scholar.google.com/citations?user=lSi3CIoAAAAJ"
-    icon = "fab fa-google-scholar"
-    description = "Google Scholar"
-    
+    [[params.social]]
+      name = "email"
+      url = "mailto:vegazhang3@gmail.com"
+      icon = "fas fa-envelope"
+      description = "Email"
+
 
 [build]
   writeStats = false
