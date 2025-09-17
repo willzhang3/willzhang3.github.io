@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en" }}">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+
+  <!-- Favicon -->
+  <link rel="icon" href="{{ "favicon.ico" | relURL }}" type="image/x-icon">
+
+  <!-- Main theme CSS -->
+  <link rel="stylesheet" href="{{ "css/main.min.css" | relURL }}">
+
+  <!-- Custom CSS from hugo.toml -->
+  {{- range .Site.Params.customCSS }}
+    <link rel="stylesheet" href="{{ . | relURL }}">
+  {{- end }}
+
+  <!-- Custom JS from hugo.toml (如果你主题有支持，可以保留，否则删掉) -->
+  {{- range .Site.Params.customJS }}
+    <script src="{{ . | relURL }}"></script>
+  {{- end }}
+</head>
+<body>
