@@ -3,7 +3,7 @@ title: "Weijia's Homepage"
 ---
 
 # About Me {#about-me}
-Weijia Zhang is a Ph.D. student in Artificial Intelligence at the Hong Kong University of Science and Technology, Guangzhou, advised by [Prof. Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ) and [Prof. Hao Liu](https://scholar.google.com/citations?user=66KKZR4AAAAJ). His research primarily focuses on advancing machine learning and data mining methodologies for modeling, understanding, and reasoning over spatio-temporal data (e.g., spatio-temporal graph and raster, multivariate time series) collected from the Earth system, urban environments, and human individuals. His work has enabled more effective and intelligent spatio-temporal prediction, decision-making, and AI foundation models, with broad applications spanning Earth science, smart cities, and healthcare. He has published 10 first-author papers in leading journals and conferences, such as TKDE, SIGKDD, ICML, WebConf, and filed over 30 China/U.S. patents. He is also one of 10 global recipients of the 2024 Baidu Scholarship.
+Weijia Zhang is a Ph.D. student in Artificial Intelligence at the Hong Kong University of Science and Technology, Guangzhou, advised by [Prof. Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ) and [Prof. Hao Liu](https://scholar.google.com/citations?user=66KKZR4AAAAJ). His research primarily focuses on advancing machine learning and data mining methodologies for modeling, understanding, and reasoning over spatio-temporal data (e.g., spatio-temporal graph and raster, multivariate time series) collected from the Earth system, urban environments, and human individuals. His work has enabled more effective and intelligent spatio-temporal prediction, decision-making, and AI foundation models, with broad applications spanning Earth science, smart cities, and healthcare. He has published over 10 first-author papers in leading journals and conferences, including TKDE, SIGKDD, ICML, WebConf, and filed over 30 China/U.S. patents. He is also one of 10 global recipients of the 2024 Baidu Scholarship.
 
 <!-- # 🎉 News {#news} -->
 # News {#news}
@@ -25,6 +25,10 @@ Weijia Zhang is a Ph.D. student in Artificial Intelligence at the Hong Kong Univ
 - **[KDD'26]** Hang Ni, **Weijia Zhang**, Hao Liu. *UniExtreme: A Universal Foundation Model for Extreme Weather Forecasting*. In Proceedings of the 32nd SIGKDD Conference on Knowledge Discovery and Data Mining, Jeju, Korea, 2026. 
 
 - **[KDD'26]** Tengfei Lyu, **Weijia Zhang**, Hao Liu. *Physics-Informed Teleconnection-Aware Transformer for Global Subseasonal-to-Seasonal Forecasting*. In Proceedings of the 32nd SIGKDD Conference on Knowledge Discovery and Data Mining, Jeju, Korea, 2026. 
+
+- **[TIST]** **Weijia Zhang**, Jindong Han, Hao Liu, Wei Fan, Hao Wang, Hui Xiong. *Meta-Transfer Learning Powered Temporal Graph Network for Cross-City Real Estate Appraisal*. ACM Transactions on Intelligent Systems and Technology, 2026. 
+
+- **[TIST]** **Weijia Zhang**, Jindong Han, Zhao Xu, Hang Ni, Tengfei Lyu, Hao Liu, Hui Xiong. *Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models*. ACM Transactions on Intelligent Systems and Technology, 2026. 
 
 - **[NeurIPS'25]** Fan Liu, Jindong Han, Tengfei Lyu, **Weijia Zhang**, Zherui Yang, Lu Dai, Cancheng Liu, Hao Liu. *Foundation Models for Scientific Discovery: From Paradigm Enhancement to Paradigm Transition*. In Proceedings of the Thirty-ninth Annual Conference on Neural Information Processing Systems, San Diego, USA, 2025. 
 
